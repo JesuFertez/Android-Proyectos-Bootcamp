@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+    <string name="mensaje_bienvenida">Hola Programador</string>
+</resources>
